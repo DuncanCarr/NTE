@@ -1,0 +1,9 @@
+name: NTE
+version: 1.0.0-SNAPSHOT
+main: herizone.nte.NTE
+authors: [Herizone]
+description: NameTagEditor plugin
+
+commands:
+  nametag:
+    usage: /nametag
