@@ -1,2 +1,2 @@
 # NTE
- NameTagEditor
+ NameTagEditor plugin created by Herizone
